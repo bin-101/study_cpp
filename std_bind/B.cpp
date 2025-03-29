@@ -1,6 +1,7 @@
 /*
 参考: https://murasame-labo.hatenablog.com/entry/2017/02/01/134046
 メンバ関数の第一引数にthisがあると解釈していい？
+std::bindは指定した関数からstd::functionを作るもの
 */
 #include <iostream>
 #include <functional>
